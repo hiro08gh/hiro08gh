@@ -10,3 +10,6 @@
 ## Development
 - Designfind: https://designfind.net/
 - Personal web: https://jamzii.com
+
+## Community
+- Jamstack-ja https://join.slack.com/t/jamstack-ja/shared_invite/zt-brhvhec5-MtXwkN8mZdxxVKKu_SVY2A
