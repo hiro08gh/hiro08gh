@@ -1,5 +1,3 @@
-# It's me.
-
 ## Links
 - Twitter: https://twitter.com/kamimura_th
 - GitHub: https://github.com/hiro08gh
