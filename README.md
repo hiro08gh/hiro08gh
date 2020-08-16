@@ -1,5 +1,5 @@
 ## Links
-- Twitter: https://twitter.com/kamimura_th
+- Twitter: https://twitter.com/hiro08gh
 - GitHub: https://github.com/hiro08gh
 - Blog: https://code-log.hatenablog.com
 - Qiita: https://qiita.com/hiro08gh
