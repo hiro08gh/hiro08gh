@@ -7,8 +7,8 @@
 
 
 ## Development
-- Designfind: https://designfind.net/
-- Jamstack blog: https://jamzii.com
+- Designfind (Next.js): https://designfind.net/
+- Jamstack blog (GatsbyJS + microCMS): https://jamzii.com
 
 ## Community
 - Jamstack-ja: https://join.slack.com/t/jamstack-ja/shared_invite/zt-brhvhec5-MtXwkN8mZdxxVKKu_SVY2A
