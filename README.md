@@ -7,7 +7,7 @@
 
 
 ## Development
-- Designfind (Next.js): https://designfind.net/
+- Designfind (Next.js): https://design-find.web.app/
 - Jamstack blog (Next.js + microCMS): https://jamzii.com
 
 ## Community
