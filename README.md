@@ -3,7 +3,6 @@
 - GitHub: https://github.com/hiro08gh
 - Blog: https://code-log.hatenablog.com
 - Qiita: https://qiita.com/hiro08gh
-- Scrapbox: https://scrapbox.io/hiro08/
 - LAPRAS: https://lapras.com/public/BZVDY6T
 
 
