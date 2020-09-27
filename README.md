@@ -12,3 +12,7 @@
 
 ## Organizer
 - Jamstack-ja: https://join.slack.com/t/jamstack-ja/shared_invite/zt-brhvhec5-MtXwkN8mZdxxVKKu_SVY2A
+
+## Activity
+- Nextjs-ja-translation: https://github.com/Nextjs-ja-translation/Nextjs-ja-translation-docs
+- Jamstack オンラインワークショップ: https://microcms.connpass.com/event/189633/
