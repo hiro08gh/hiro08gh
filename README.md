@@ -8,7 +8,6 @@
 
 ## Development
 - Designfind (Next.js): https://design-find.web.app/
-- [WIP]Jamstack blog (Next.js + microCMS): https://jamzii.com
 
 ## Organizer
 - Jamstack-ja: https://join.slack.com/t/jamstack-ja/shared_invite/zt-brhvhec5-MtXwkN8mZdxxVKKu_SVY2A
