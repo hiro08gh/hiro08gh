@@ -14,4 +14,4 @@
 
 ## Activity
 - Nextjs-ja-translation: https://github.com/Nextjs-ja-translation/Nextjs-ja-translation-docs
-- Jamstack オンラインワークショップ: https://microcms.connpass.com/event/189633/
+- connpass: https://connpass.com/user/hiro08gh/
