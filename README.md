@@ -4,7 +4,7 @@
 - Blog: https://code-log.hatenablog.com
 - Qiita: https://qiita.com/hiro08gh
 - LAPRAS: https://lapras.com/public/BZVDY6T
-
+- connpass: https://connpass.com/user/hiro08gh/
 
 ## Development
 - Designfind (Next.js): https://design-find.web.app/
@@ -14,4 +14,4 @@
 
 ## Activity
 - Nextjs-ja-translation: https://github.com/Nextjs-ja-translation/Nextjs-ja-translation-docs
-- connpass: https://connpass.com/user/hiro08gh/
+- Jamstackオンラインワークショップ: https://microcms.connpass.com/event/189633/
