@@ -1,4 +1,6 @@
-I'm Freelance frontend engineer. Working on __ . Please put your PR in this repository:rocket:
+## About
+I'm Freelance frontend engineer. Working on ___ . Please put your PR in this repository:rocket:
+
 ## Links
 - Twitter: https://twitter.com/kamimura_th
 - GitHub: https://github.com/hiro08gh
