@@ -1,5 +1,5 @@
 ## About
-I'm Freelance frontend engineer. Working on ___ . Please put your PR in this repository:rocket:
+I'm frontend engineer. Like React / Next.js
 
 ## Links
 - Twitter: https://twitter.com/kamimura_th
