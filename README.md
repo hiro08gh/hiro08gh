@@ -7,6 +7,7 @@ I'm frontend engineer. Like React / Next.js
 - Blog: https://code-log.hatenablog.com
 - Qiita: https://qiita.com/hiro08gh
 - LAPRAS: https://lapras.com/public/BZVDY6T
+- Zenn https://zenn.dev/hiro08gh
 - connpass: https://connpass.com/user/hiro08gh/
 
 ## Development
