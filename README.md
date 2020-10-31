@@ -8,7 +8,6 @@ I'm frontend engineer. Like React / Next.js
 - Qiita: https://qiita.com/hiro08gh
 - LAPRAS: https://lapras.com/public/BZVDY6T
 - Zenn https://zenn.dev/hiro08gh
-- connpass: https://connpass.com/user/hiro08gh/
 
 ## Development
 - Designfind (Next.js): https://designfind.net
