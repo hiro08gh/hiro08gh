@@ -1,13 +1,8 @@
-## Links
-- Twitter: https://twitter.com/kamimura_th
-- GitHub: https://github.com/hiro08gh
-- Blog: https://code-log.hatenablog.com
-- LAPRAS: https://lapras.com/public/BZVDY6T
-- Zenn https://zenn.dev/hiro08gh
+Jamstack developer. Interested in front-end and serverless technology
 
-## Development
-- Designfind (Next.js): https://designfind.net
-- hiro08.dev https://hiro08.dev
+## Links
+- Blog: https://code-log.hatenablog.com
+- Zenn https://zenn.dev/hiro08gh
 
 ## Organizer
 - Jamstack-ja: https://join.slack.com/t/jamstack-ja/shared_invite/zt-brhvhec5-MtXwkN8mZdxxVKKu_SVY2A
