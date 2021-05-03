@@ -5,7 +5,8 @@ Jamstack developer. Interested in front-end and serverless technology
 - Zenn https://zenn.dev/hiro08gh
 - Qiita https://qiita.com/hiro08gh
 - LAPRAS https://lapras.com/public/BZVDY6T
-
+- hiro08.dev https://hiro08.dev
+- 
 ## Product
 - Designfind: https://designfind.net
 
