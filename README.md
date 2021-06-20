@@ -1,6 +1,6 @@
 Jamstack developer [@microcms](https://microcms.io/).
 
-- Blog: https://code-log.hatenablog.com
+- code-log (hatena blog): https://code-log.hatenablog.com
 - Zenn https://zenn.dev/hiro08gh
 
 ## Product
