@@ -1,5 +1,3 @@
-Software engineer [@microcms](https://microcms.io/).
-
 - code-log (hatena blog): https://code-log.hatenablog.com
 - Zenn https://zenn.dev/hiro08gh
 - hiro08.dev https://www.hiro08.dev/
