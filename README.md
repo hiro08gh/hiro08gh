@@ -1,6 +1,5 @@
 - code-log (hatena blog): https://code-log.hatenablog.com
 - Zenn https://zenn.dev/hiro08gh
-- hiro08.dev https://blog.hiro08.dev
 - LAPRAS https://lapras.com/public/hiro08gh
 
 ## Organizer
