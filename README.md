@@ -1,5 +1,3 @@
-I'm Frontend (and Jamstack) Engineer.
-
 - code-log (hatena blog): https://code-log.hatenablog.com
 - Zenn https://zenn.dev/hiro08gh
 - LAPRAS https://lapras.com/public/hiro08gh
