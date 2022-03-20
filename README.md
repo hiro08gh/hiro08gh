@@ -1,7 +1,7 @@
 - code-log (hatena blog): https://code-log.hatenablog.com
 - Zenn https://zenn.dev/hiro08gh
 - LAPRAS https://lapras.com/public/hiro08gh
-- Gist https://gist.github.com/hiro08gh
+- GitHub Gist https://gist.github.com/hiro08gh
 
 ## Organizer
 - Jamstack-ja: https://join.slack.com/t/jamstack-ja/shared_invite/zt-brhvhec5-MtXwkN8mZdxxVKKu_SVY2A
