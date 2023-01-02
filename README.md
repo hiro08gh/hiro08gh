@@ -1,3 +1,4 @@
 - code-log (hatena blog): https://code-log.hatenablog.com
 - Zenn https://zenn.dev/hiro08gh
 - LAPRAS https://lapras.com/public/hiro08gh
+- Speaker Deck https://speakerdeck.com/hiro08gh
