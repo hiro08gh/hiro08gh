@@ -1,6 +1,6 @@
 Software enginner and Jamstack Developer. I m an engineer interested in Next.js and UI development, testing, DDD. Currently working at microCMS and commmune Global team.
 
-
+- hiro08.dev (pending)
 - hiro08gh (hatena blog): https://code-log.hatenablog.com
 - Zenn https://zenn.dev/hiro08gh
 - LAPRAS https://lapras.com/public/hiro08gh
