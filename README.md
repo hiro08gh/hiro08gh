@@ -2,12 +2,14 @@
 
 Software enginner and Jamstack Developer. I m an engineer interested in Next.js and UI development, testing, tech writing.
 
-- hiro08gh (hatena blog): https://blog.hiro08.com
-- Zenn https://zenn.dev/hiro08gh
-- LAPRAS https://lapras.com/public/hiro08gh
-- Speaker Deck https://speakerdeck.com/hiro08gh
+- [hiro08gh (hatena blog)](https://blog.hiro08.com)
+- [Zenn](https://zenn.dev/hiro08gh)
+- [Medium](https://medium.com/@hiro08gh/next-js-naming-conventions-are-checked-with-eslint-rules-946371d67882)
+- [LAPRAS](https://lapras.com/public/hiro08gh)
 
 ## Feature Writing
+
+[Next.js naming conventions are checked with ESLint rules](https://medium.com/@hiro08gh/next-js-naming-conventions-are-checked-with-eslint-rules-946371d67882)
 
 [microCMSのリッチエディタをマークダウンとして管理できるライブラリを作成しました](https://zenn.dev/microcms/articles/af63535dca128f)
 
