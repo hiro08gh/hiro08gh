@@ -4,7 +4,7 @@ Software enginner and Jamstack Developer. I m an engineer interested in Next.js 
 
 - [hiro08gh (hatena blog)](https://blog.hiro08.com)
 - [Zenn](https://zenn.dev/hiro08gh)
-- [Medium](https://medium.com/@hiro08gh/next-js-naming-conventions-are-checked-with-eslint-rules-946371d67882)
+- [Medium](https://medium.com/@hiro08gh)
 - [LAPRAS](https://lapras.com/public/hiro08gh)
 
 ## Feature Writing
