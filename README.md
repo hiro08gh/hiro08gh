@@ -2,6 +2,7 @@
 
 Software enginner and Jamstack Developer. I m an engineer interested in Next.js and UI development, testing, tech writing.
 
+- [hiro08.com](https://hiro08.com)
 - [hiro08gh (hatena blog)](https://blog.hiro08.com)
 - [Zenn](https://zenn.dev/hiro08gh)
 - [Medium](https://medium.com/@hiro08gh)
