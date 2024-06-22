@@ -4,6 +4,7 @@ Software enginner and Jamstack Developer. I m an engineer interested in Next.js 
 
 - [hiro08gh (hatena blog)](https://code-log.hatenablog.com/)
 - [Zenn](https://zenn.dev/hiro08gh)
+- [Qiita](https://qiita.com/hiro08gh)
 - [Medium](https://medium.com/@hiro08gh)
 - [LAPRAS](https://lapras.com/public/hiro08gh)
 
