@@ -11,6 +11,8 @@ Web application enginner and Jamstack Developer. I m an engineer interested in N
 
 ## Feature Writing
 
+[ts-morphを使ってJSX向けの小さなリファクタリングツールを作成する](https://zenn.dev/hiro08gh/articles/ab3ce2a6fd4107)
+
 [Next.js naming conventions are checked with ESLint rules](https://medium.com/@hiro08gh/next-js-naming-conventions-are-checked-with-eslint-rules-946371d67882)
 
 [microCMSのリッチエディタをマークダウンとして管理できるライブラリを作成しました](https://zenn.dev/microcms/articles/af63535dca128f)
