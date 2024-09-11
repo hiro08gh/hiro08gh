@@ -21,10 +21,6 @@ Web application enginner and Jamstack Developer. I m an engineer interested in N
 
 - [Style DictionaryとStorybookを使ったデザイントークンの連携フロー](https://blog.microcms.io/styledictionary-storybook/)
 
-- [Next.js(SSG)でページネーションを実装してみよう](https://blog.microcms.io/next-pagination/)
-
-- [microCMS + Next.jsでJamstackブログを作ってみよう](https://blog.microcms.io/microcms-next-jamstack-blog/)
-
 - [microCMS SDK + Next.jsを用いた開発手順](https://zenn.dev/microcms/articles/a953f46a839ee7)
 
 - [Storybook + Figmaで始めるデザイン駆動コンポーネント開発](https://code-log.hatenablog.com/entry/2020/08/31/161537)
