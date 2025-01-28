@@ -1,6 +1,8 @@
 ## About
 
-Web application enginner and Jamstack Developer. I m an engineer interested in Next.js and UI development, testing, tech writing.
+I am a senior engineer with approximately 9 years of development experience. I have worked as a full-stack developer throughout my career. My areas of interest include Next.js, UI development, and testing.
+
+## Link
 
 - [hiro08.com](https://hiro08.com)
 - [hiro08gh (hatena blog)](https://code-log.hatenablog.com/)
