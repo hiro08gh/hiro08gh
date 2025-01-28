@@ -1,6 +1,6 @@
 ## About
 
-I am a senior engineer with approximately 9 years of development experience. I have worked as a full-stack developer throughout my career. My areas of interest include Next.js, UI development, and testing.
+I am a senior engineer with about 9 years of development experience. I have worked as a full-stack developer throughout my career. My areas of interest include Next.js, UI development, and testing.
 
 ## Link
 
