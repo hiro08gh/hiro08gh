@@ -1,7 +1,3 @@
-## About
-
-I am a senior engineer with about 9 years of development experience. I have worked as a full-stack developer throughout my career. I am particularly interested in Next.js, UI development, and testing.
-
 ## Link
 
 - [hiro08.com](https://hiro08.com)
