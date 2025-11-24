@@ -1,4 +1,4 @@
-## Link
+## Links
 
 - [hiro08.com](https://hiro08.com)
 - [hiro08gh (hatena blog)](https://code-log.hatenablog.com/)
