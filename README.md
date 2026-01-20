@@ -8,7 +8,7 @@ Software Engineer with a strong focus on SaaS product development and modern web
 
 - Cloud & Infrastructure (5+ years): Hands-on experience with AWS and GCP. Skilled in managing cloud resources and implementing CI/CD pipelines (e.g., Supabase migrations, GitHub Actions).
 
-- Mobile Development: Experienced in cross-platform mobile app development using Flutter.
+- Mobile Development (1+ years):: Experienced in cross-platform mobile app development using Flutter.
 
 ## Links
 
